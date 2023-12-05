@@ -3,7 +3,7 @@
   I'm fascinated by all sorts of mechanical marvels. 
 I have a particular interest in boats, planes and rockets; with a particular passion for engines within these systems.
 A book I'm really enjoying going through is Steve Burntons "Data Driven Science and Engineering."
-Then on the sidelines I'm working my way through the standard industrial engineering manuals (APQP, FMEA, MSA, PPAP). 
+Then for some light reading I'm working my way through the APQP, FMEA, MSA, PPAP manuals. 
 
 
   I'm currently in the works to launch a store to sell my existing projects.
