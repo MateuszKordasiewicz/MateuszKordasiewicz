@@ -2,7 +2,7 @@
 
   I'm fascinated by all sorts of mechanical marvels. 
   I have a strong desire to design all sorts of mechanical systems.
-  My main problem. I'm just one person.
+  My main problem: I'm just one person. 
 
   
 
