@@ -1,10 +1,9 @@
 👋 Hi, I’m @MateuszKordasiewicz
 
-  I'm fascinated by all sorts of mechanical marvels. 
-  I have a strong desire to engineer systems across all engineering domains.
+  There isn't anything that doesn't interest me. 
+  Currently working on integrating AI into existing systems and processes. 
+  Dreaming about how to improve the entire engineering workflow.
 
 
-  
 
-  For buisness inquires you can reach me at: mateusz.kordasiewicz@gmail.com
 
