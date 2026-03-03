@@ -1,8 +1,11 @@
-👋 Hi, I’m @MateuszKordasiewicz
+There isn't anything that doesn't interest me. 
 
-  There isn't anything that doesn't interest me. 
-  Currently working on integrating AI into existing systems and processes. 
-  Dreaming about how to improve the entire engineering workflow.
+Im interested in all things aerospace, getting to space, coming back from space, making things in space.
+
+Im also interested in what learning is. considering graph based learning approaches for 'puzzle' solving.
+
+Trying to get AI to do real engineering.
+
 
 
 
